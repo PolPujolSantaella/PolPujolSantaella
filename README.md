@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hola! Sóc un programador jove apassionat pel món de la tecnologia i el desenvolupament de programari. Em dic Pol Pujol, tinc 21 anys i estic estudiant enginyeria informàtica a la Universitat Rovira i Virgili (URV).<br><br>🌍 Sóc de Reus, una ciutat plena de cultura i innovació que m'ha inspirat a perseguir la meva passió per la programació. Sempre he estat fascinat per la manera en què la tecnologia pot resoldre problemes i millorar la nostra vida quotidiana.<br><br>🚀 Actualment, estic enfocat en adquirir coneixements profunds en diverses àrees de la informàtica, des del desenvolupament de software fins a la intel·ligència artificial i Cloud Computing. M'encanta explorar noves tecnologies i mètodes de programació, i estic constantment buscant maneres de millorar les meves habilitats i coneixements.<br><br>💼 Tot i ser jove, tinc una gran determinació per guanyar experiència laboral i contribuir a projectes innovadors. M'agrada treballar en equip i crec que la col·laboració és clau per a l'èxit en el desenvolupament de projectes tecnològics.<br><br>🌟 Si estàs buscant un jove programador amb ganes d'aprendre, de créixer professionalment i d'aportar noves idees, estaré encantat de connectar amb tu. Estic obert a oportunitats de pràctiques, projectes col·laboratius i qualsevol iniciativa que em permeti continuar aprenent i contribuint al món de la tecnologia.<br><br>Gràcies per visitar el meu perfil! 😊
 
+I... Sí, aquest paràgraf està escrit amb ChatGTP. No patiu, encara sé fer alguna cosa sense ell! 😄
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pol-pujol-santaella-2891192b8)
